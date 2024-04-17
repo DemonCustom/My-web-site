@@ -88,19 +88,12 @@
                             <div class="main-menu text-center">
                                 <nav>
                                     <ul>
-                                        <li><a href="index.html">HOME</a>
+                                        <li><a href="/">HOME</a>
                                             <ul class="sub-menu-style">
                                                 <li><a href="index.html">Home version 1 </a></li>
-                                                <li><a href="index-2.html">Home version 2</a></li>
-                                                <li><a href="index-3.html">Home version 3</a></li>
-                                                <li><a href="index-4.html">Home version 4</a></li>
-                                                <li><a href="index-5.html">Home version 5</a></li>
-                                                <li><a href="index-6.html">Home version 6</a></li>
-                                                <li><a href="index-7.html">Home version 7</a></li>
-                                                <li><a href="index-8.html">Home version 8</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="">МАГАЗИН</a>
+                                        <li><a href="/shop">МАГАЗИН</a>
                                             <ul class="mega-menu-style mega-menu-mrg-1">
                                                 <li>
                                                     <ul>

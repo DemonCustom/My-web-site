@@ -3,12 +3,13 @@
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
+
 Route::get('/', function () {
     return view('index');
 });
 
 Route::get('/shop', function () {
-    return view('show.blade');
+    return view('shop');
 });
 
 Route::get('/dashboard', function () {

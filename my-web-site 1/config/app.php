@@ -124,7 +124,7 @@ return [
     ],
 
     'aliases' => [
-        'Route' => Illuminate\Support\Facades\Route::class,
+        'Route' => "Illuminate\Support\Facades\Route",
     ],
 
 
